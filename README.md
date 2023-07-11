@@ -1,3 +1,4 @@
+![logo](https://github.com/Moiez1523/Moiez1523/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 <h1 align="center">Hi 👋, I'm Moiez Bilal</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
